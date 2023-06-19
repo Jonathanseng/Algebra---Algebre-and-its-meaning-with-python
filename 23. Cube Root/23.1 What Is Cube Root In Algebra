@@ -1,0 +1,59 @@
+In algebra, a cube root of a number is a number that, when multiplied by itself three times, equals the original number. The symbol for the cube root is ∛. For example, the cube root of 27 is 3, because 3 × 3 × 3 = 27.
+
+Cube roots are used in many different areas of mathematics, including geometry, trigonometry, and calculus. They are also used in many practical applications, such as finding the volume of a cube or the length of a diagonal of a cube.
+
+Here are some of the properties of cube roots:
+
+* The cube root of a positive number is always non-negative.
+* The cube root of a negative number is imaginary.
+* The cube root of a perfect cube is an integer.
+* The cube root of a non-perfect cube is irrational.
+
+Here are some of the uses of cube roots in algebra:
+
+* Solving equations
+* Simplifying expressions
+* Calculating volumes and areas
+* Studying functions
+
+Here is an example of how to find the cube root of a number using Python:
+
+```python
+def cube_root(number):
+  """
+  Calculates the cube root of a number.
+
+  Args:
+    number: The number to find the cube root of.
+
+  Returns:
+    The cube root of the number.
+  """
+
+  import math
+
+  return math.cbrt(number)
+
+
+if __name__ == "__main__":
+  print(cube_root(27))
+  # This will print 3
+
+  print(cube_root(64))
+  # This will print 4
+```
+
+This code first imports the `math` module, which contains the `cbrt()` function. The `cbrt()` function calculates the cube root of a number.
+
+The code then defines a function called `cube_root()`. This function takes one argument: the number to find the cube root of. The function then uses the `cbrt()` function from the `math` module to calculate the cube root of the number.
+
+The code then defines a main function that calls the `cube_root()` function with the arguments 27 and 64. This will print the values 3 and 4 to the console.
+
+To run this code, you can save it as a Python file and then run it from the command line. For example, if you save the code as `cube_root.py`, you can run it by typing the following command into the command line:
+
+```
+python cube_root.py
+```
+
+This will print the values 3 and 4 to the console.
+
