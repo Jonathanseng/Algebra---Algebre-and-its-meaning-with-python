@@ -1,0 +1,59 @@
+In algebra, a fourth root of a number is a number that, when multiplied by itself four times, equals the original number. The symbol for the fourth root is 4√. For example, the fourth root of 256 is 4, because 4 × 4 × 4 × 4 = 256.
+
+Fourth roots are used in many different areas of mathematics, including geometry, trigonometry, and calculus. They are also used in many practical applications, such as finding the volume of a regular tetrahedron or the length of a diagonal of a regular tetrahedron.
+
+Here are some of the properties of fourth roots:
+
+* The fourth root of a positive number is always non-negative.
+* The fourth root of a negative number is imaginary.
+* The fourth root of a perfect fourth power is an integer.
+* The fourth root of a non-perfect fourth power is irrational.
+
+Here are some of the uses of fourth roots in algebra:
+
+* Solving equations
+* Simplifying expressions
+* Calculating volumes and areas
+* Studying functions
+
+Here is an example of how to find the fourth root of a number using Python:
+
+```python
+def fourth_root(number):
+  """
+  Calculates the fourth root of a number.
+
+  Args:
+    number: The number to find the fourth root of.
+
+  Returns:
+    The fourth root of the number.
+  """
+
+  import math
+
+  return math.pow(number, 1 / 4)
+
+
+if __name__ == "__main__":
+  print(fourth_root(256))
+  # This will print 4
+
+  print(fourth_root(625))
+  # This will print 5
+```
+
+This code first imports the `math` module, which contains the `pow()` function. The `pow()` function calculates the nth root of a number.
+
+The code then defines a function called `fourth_root()`. This function takes one argument: the number to find the fourth root of. The function then uses the `pow()` function from the `math` module to calculate the fourth root of the number.
+
+The code then defines a main function that calls the `fourth_root()` function with the arguments 256 and 625. This will print the values 4 and 5 to the console.
+
+To run this code, you can save it as a Python file and then run it from the command line. For example, if you save the code as `fourth_root.py`, you can run it by typing the following command into the command line:
+
+```
+python fourth_root.py
+```
+
+This will print the values 4 and 5 to the console.
+
