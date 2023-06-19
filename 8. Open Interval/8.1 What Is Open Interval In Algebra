@@ -1,0 +1,21 @@
+In algebra, an open interval is a set of real numbers that does not include its endpoints. This means that the interval includes all real numbers between its endpoints, but not the endpoints themselves.
+
+Open intervals are denoted using parentheses, while closed intervals are denoted using square brackets. For example, the open interval (0, 1) includes all real numbers between 0 and 1, but not 0 or 1.
+
+Here are some examples of open intervals:
+
+* (0, 1)
+* (-1, 0)
+* (2, 3)
+
+Here are some examples of closed intervals:
+
+* [0, 1]
+* [-1, 0]
+* [2, 3]
+
+Open intervals are often used to represent the domain of a function. For example, the function f(x) = x² is defined for all real numbers in the open interval (-∞, ∞).
+
+Open intervals can also be used to represent the range of a function. For example, the function f(x) = x² has a range of all real numbers greater than or equal to 0.
+
+I hope this helps! Let me know if you have any other questions.
