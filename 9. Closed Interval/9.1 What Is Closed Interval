@@ -1,0 +1,20 @@
+In algebra, a closed interval is a set of real numbers that includes its endpoints. This means that the interval includes all real numbers between its endpoints, as well as the endpoints themselves.
+
+Closed intervals are denoted using square brackets, while open intervals are denoted using parentheses. For example, the closed interval [0, 1] includes all real numbers between 0 and 1, including 0 and 1.
+
+Here are some examples of closed intervals:
+
+* [0, 1]
+* [-1, 0]
+* [2, 3]
+
+Here are some examples of open intervals:
+
+* (0, 1)
+* (-1, 0)
+* (2, 3)
+
+Closed intervals are often used to represent the domain of a function. For example, the function f(x) = x² is defined for all real numbers in the closed interval [-∞, ∞].
+
+Closed intervals can also be used to represent the range of a function. For example, the function f(x) = x² has a range of all real numbers greater than or equal to 0.
+
