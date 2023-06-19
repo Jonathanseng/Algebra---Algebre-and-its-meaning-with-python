@@ -1,0 +1,12 @@
+In algebra, the phrase "for all" is used to indicate that a statement is true for **every** element in a set. For example, the statement "for all real numbers x, x² ≥ 0" means that the inequality x² ≥ 0 is true for **every** real number x.
+
+The symbol for "for all" is the universal quantifier, which is often written as ∀. So, the statement "for all real numbers x, x² ≥ 0" can also be written as ∀x ∈ R, x² ≥ 0, where R is the set of all real numbers.
+
+The phrase "for all" is a very important concept in algebra, and it is used in many different mathematical statements. For example, the axioms of set theory all use the phrase "for all" to indicate that they are true for **every** set.
+
+Here are some examples of how the phrase "for all" is used in algebra:
+
+* For all real numbers x, x² ≥ 0.
+* For all integers n, n + 1 is greater than or equal to n.
+* For all sets A and B, if A ⊆ B, then A∩B = A.
+
