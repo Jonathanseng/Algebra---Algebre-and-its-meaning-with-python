@@ -1,0 +1,22 @@
+In algebra, a function of x is a mathematical relationship that assigns a unique output value, y, to each input value, x. The input value, x, is often referred to as the independent variable, and the output value, y, is referred to as the dependent variable.
+
+A function of x can be defined in a variety of ways, including:
+
+* **Using function notation:** In function notation, the function is denoted by a letter, such as f, and the input value is enclosed in parentheses. For example, the function f(x) = x² defines y as a function of x, where y = x².
+* **Using an equation:** A function of x can also be defined by an equation. For example, the equation y = 2x + 1 defines y as a function of x, where y = 2x + 1.
+* **Using a table:** A function of x can also be defined by a table of values. For example, the table below defines y as a function of x, where y = x².
+
+```
+x | y
+---|---
+1 | 1
+2 | 4
+3 | 9
+4 | 16
+```
+
+Once a function of x is defined, it can be used to calculate the output value for any given input value. For example, if x = 3, then f(3) = 3² = 9.
+
+Functions of x are used in a wide variety of applications in mathematics, science, and engineering. For example, functions of x are used to model the motion of objects, to calculate the area under a curve, and to solve differential equations.
+
+I hope this helps! Let me know if you have any other questions.
