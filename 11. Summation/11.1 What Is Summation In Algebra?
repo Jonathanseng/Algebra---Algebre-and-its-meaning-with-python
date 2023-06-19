@@ -1,0 +1,15 @@
+In algebra, summation is the addition of a sequence of any kind of numbers, called addends or summands; the result is their sum or total. Beside numbers, other types of values can be summed as well: functions, vectors, matrices, polynomials and, in general, elements of any type of mathematical objects on which an operation denoted "+" is defined.
+
+Summations of infinite sequences are called series. They involve the concept of limit, and are not considered in this article. The summation of an explicit sequence is denoted as a succession of additions. For example, summation of [1, 2, 4, 2] is denoted 1 + 2 + 4 + 2, and results in 9, that is, 1 + 2 + 4 + 2 = 9. Because addition is associative and commutative, there is no need of parentheses, and the result is the same irrespective of the order of the summands. Summation of a sequence of only one element results in this element itself. Summation of an empty sequence (a sequence with no elements), by convention, results in 0.
+
+In mathematics, summation notation is a way of writing long sums concisely. The summation symbol is Σ (Greek capital sigma), and it is used to represent the sum of a sequence of numbers. The sequence is written below the symbol, and the starting and ending values of the sequence are written above the symbol. For example, the sum of the numbers from 1 to 10 can be written as:
+
+```
+Σi=110i
+```
+
+This notation means that we are summing the values of i from 1 to 10. The result of this sum is 55.
+
+There are a few rules that you need to know about summation notation. First, the starting and ending values of the sequence must be integers. Second, the sequence must be increasing or decreasing. Third, the sequence cannot contain any duplicate values.
+
+Summation notation is a powerful tool that can be used to simplify complex sums. It is often used in calculus and other branches of mathematics.
