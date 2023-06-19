@@ -1,0 +1,27 @@
+In algebra, an inner product is a generalization of the dot product. In a vector space, it is a way to multiply vectors together, with the result of this multiplication being a scalar.
+
+The inner product of two vectors is denoted by <u, v>. It is defined as follows:
+
+```
+<u, v> = u1v1 + u2v2 + ... + unvn
+```
+
+where u = (u1, u2, ..., un) and v = (v1, v2, ..., vn) are vectors in the vector space.
+
+The inner product has the following properties:
+
+* <u, u> >= 0, and <u, u> = 0 if and only if u = 0.
+* <u, v> = <v, u>.
+* <ku, v> = k<u, v> for any scalar k.
+* <u + v, w> = <u, w> + <v, w>.
+
+The inner product is used in many different areas of mathematics, including linear algebra, analysis, and geometry. It is also used in many practical applications, such as machine learning and signal processing.
+
+Here are some examples of how inner products are used in algebra:
+
+* In linear algebra, inner products are used to define the length of a vector and the angle between two vectors.
+* In analysis, inner products are used to define the norm of a function.
+* In geometry, inner products are used to define the distance between two points and the area of a parallelogram.
+* In machine learning, inner products are used to calculate the similarity between two vectors.
+* In signal processing, inner products are used to filter signals and to extract features from signals.
+
