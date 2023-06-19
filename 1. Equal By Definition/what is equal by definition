@@ -1,0 +1,17 @@
+In algebra, **equal by definition** refers to two expressions that are equal by virtue of their definition. For example, the expressions `0^0` and `1` are equal by definition, because the definition of 0 to the 0th power is 1.
+
+Here are some other examples of expressions that are equal by definition in algebra:
+
+* `x + 0 = x`
+* `a^2 - b^2 = (a + b)(a - b)`
+* `sin^2(x) + cos^2(x) = 1`
+
+These expressions are equal because they are defined to be equal. In other words, their equality is not derived from any other mathematical principles, but rather from the way that they are defined.
+
+It is important to be able to recognize expressions that are equal by definition, because they can often be used to simplify algebraic expressions. For example, if you have the expression `x + 0`, you can simplify it to `x` by using the fact that `x + 0 = x`.
+
+Here are some tips for recognizing expressions that are equal by definition:
+
+* Look for expressions that contain terms that are defined to be equal. For example, the expression `sin^2(x) + cos^2(x)` contains the terms `sin^2(x)` and `cos^2(x)`, which are defined to be equal to 1.
+* Look for expressions that are derived from other expressions that are equal by definition. For example, the expression `a^2 - b^2 = (a + b)(a - b)` is derived from the expression `(a + b)(a - b) = a^2 - b^2`, which is equal by definition.
+* If you are unsure whether an expression is equal by definition, you can always consult a reference book or ask a math teacher or tutor.
