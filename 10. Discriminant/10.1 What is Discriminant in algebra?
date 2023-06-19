@@ -1,0 +1,17 @@
+In algebra, the discriminant of a quadratic equation is a part of the quadratic formula that tells us how many real number solutions the equation has. The discriminant is denoted by Δ or D, and it is calculated as follows:
+
+```
+Δ = b² - 4ac
+```
+
+where a, b, and c are the coefficients of the quadratic equation ax² + bx + c = 0.
+
+* If Δ is positive, then the equation has two distinct real number solutions.
+* If Δ is zero, then the equation has one repeated real number solution.
+* If Δ is negative, then the equation has no real number solutions.
+
+For example, consider the quadratic equation x² - 4x + 4 = 0. The discriminant of this equation is Δ = (-4)² - 4(1)(4) = 0. This means that the equation has one repeated real number solution, which is x = 2.
+
+The discriminant can also be used to determine the nature of the roots of a quadratic equation. If the discriminant is positive, then the roots are real and distinct. If the discriminant is zero, then the roots are real and equal. If the discriminant is negative, then the roots are complex and conjugate.
+
+The discriminant is a useful tool for understanding the solutions of quadratic equations. It can be used to quickly determine how many real number solutions an equation has, and it can also be used to determine the nature of the roots.
