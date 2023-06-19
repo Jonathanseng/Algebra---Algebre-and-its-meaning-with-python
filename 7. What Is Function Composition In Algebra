@@ -1,0 +1,26 @@
+In algebra, function composition is an operation that takes two functions, f and g, and produces a new function, h, such that h(x) = g(f(x)). In other words, the function g is applied to the result of applying the function f to x.
+
+For example, let's say we have the following functions:
+
+```
+f(x) = x²
+g(x) = x + 3
+```
+
+The composition of these functions, h(x), is defined as follows:
+
+```
+h(x) = g(f(x)) = (x²) + 3 = x² + 3
+```
+
+In other words, the function h(x) first applies the function f(x) to x, which gives us x². Then, the function g(x) is applied to the result, x², which gives us x² + 3.
+
+Function composition is a useful operation for combining two or more functions into a new function. It can be used to solve a variety of problems in mathematics, science, and engineering.
+
+Here are some of the properties of function composition:
+
+* **Associativity:** The composition of functions is associative, which means that (f ∘ g) ∘ h = f ∘ (g ∘ h).
+* **Identity function:** The identity function is a function that leaves its input unchanged. The composition of any function with the identity function is the original function.
+* **Inverse function:** If a function has an inverse, then the composition of the function with its inverse is the identity function.
+
+I hope this helps! Let me know if you have any other questions.
