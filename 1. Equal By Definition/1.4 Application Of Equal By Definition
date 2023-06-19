@@ -1,0 +1,13 @@
+Equal by definition in algebra can be applied in a variety of ways, including:
+
+* **Simplifying algebraic expressions:** Equal by definition can be used to simplify algebraic expressions by eliminating terms that are equal by definition. For example, the expression `x + 0` can be simplified to `x` by using the fact that `x + 0 = x`.
+* **Proving mathematical theorems:** Equal by definition can be used to prove mathematical theorems by showing that two expressions are equal by definition. For example, the Pythagorean theorem can be proved by showing that `a^2 + b^2 = c^2` is equal by definition to `sin^2(x) + cos^2(x) = 1`.
+* **Solving algebraic equations:** Equal by definition can be used to solve algebraic equations by setting two expressions equal to each other and then using the definitions of mathematical terms to simplify the expressions. For example, the equation `x^2 - 1 = 0` can be solved by setting the expression `x^2 - 1` equal to the expression `0` and then using the definition of 0 to simplify the expression.
+
+Here are some specific examples of how equal by definition can be applied in algebra:
+
+* To simplify the expression `x + 0`, we can use the fact that `x + 0 = x`. This gives us the simplified expression `x`.
+* To prove the Pythagorean theorem, we can show that `a^2 + b^2 = c^2` is equal by definition to `sin^2(x) + cos^2(x) = 1`. This can be done by using the definitions of sine, cosine, and the Pythagorean identity.
+* To solve the equation `x^2 - 1 = 0`, we can set the expression `x^2 - 1` equal to the expression `0`. We can then use the definition of 0 to simplify the expression, which gives us the solution `x = 1`.
+
+Equal by definition is a powerful tool that can be used to simplify algebraic expressions, prove mathematical theorems, and solve algebraic equations. By understanding the definitions of mathematical terms and how they can be used to show that two expressions are equal, you can use equal by definition to solve a variety of problems in algebra.
