@@ -1,0 +1,15 @@
+In algebra, the floor bracket, also known as the greatest integer function, is a function that takes a real number as input and returns the greatest integer that is less than or equal to the input. For example, the floor bracket of 2.3 is 2, and the floor bracket of -2.3 is -3.
+
+The floor bracket is denoted by the symbol ⌊x⌋, which is a pair of square brackets with the top part missing. For example, we would write ⌊2.3⌋ to denote the floor bracket of 2.3.
+
+The floor bracket can be used to simplify algebraic expressions and to solve algebraic equations. For example, the expression ⌊2.3⌋ + 1 can be simplified to 3, and the equation ⌊x⌋ = 2 can be solved to find that x = 2 or x = -2.
+
+The floor bracket is a useful tool in algebra, and it is often used in conjunction with other mathematical functions, such as the ceiling function and the fractional part function.
+
+Here are some examples of how the floor bracket can be used in algebra:
+
+* To simplify the expression `⌊2.3⌋ + 1`, we can use the fact that the floor bracket of 2.3 is 2. This gives us the simplified expression `2 + 1 = 3`.
+* To solve the equation `⌊x⌋ = 2`, we can use the fact that the floor bracket of 2 is 2. This means that the solution to the equation is x = 2 or x = -2.
+* To find the fractional part of 2.3, we can subtract the floor bracket of 2.3 from 2.3. This gives us the fractional part 0.3.
+
+The floor bracket is a versatile tool that can be used to simplify algebraic expressions, solve algebraic equations, and find the fractional part of a number. By understanding how the floor bracket works, you can use it to solve a variety of problems in algebra.
