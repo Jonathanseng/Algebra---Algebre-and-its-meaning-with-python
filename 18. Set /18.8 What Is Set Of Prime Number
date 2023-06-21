@@ -1,0 +1,16 @@
+A set of prime numbers is a set that contains only prime numbers. A prime number is a natural number that has exactly two distinct natural number divisors: 1 and itself. A natural number greater than 1 that is not prime is called a composite number.
+
+The set of prime numbers is infinite, and it is one of the most important sets in mathematics. Prime numbers have many applications in mathematics, computer science, and cryptography.
+
+Here are some examples of sets of prime numbers:
+
+* The set of all prime numbers less than 100.
+* The set of all prime numbers that are greater than 100 and less than 200.
+* The set of all prime numbers that are divisible by 3.
+* The set of all prime numbers that are less than the square root of a given number.
+
+The set of prime numbers can be represented in many different ways. One way to represent the set of prime numbers is to use a list. For example, the set of all prime numbers less than 100 can be represented as the list `[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, ...]`.
+
+Another way to represent the set of prime numbers is to use a set. A set is a collection of elements that are unique and cannot be repeated. The set of all prime numbers less than 100 can be represented as the set `{2, 3, 5, 7, 11, 13, 17, 19, 23, 29, ...}`.
+
+The set of prime numbers is a very important set in mathematics, and it has many applications in different fields. 
