@@ -1,0 +1,21 @@
+In mathematics, an algebraic number is a number that is the root of a polynomial with integer coefficients. In other words, an algebraic number is a number that can be written in the form of x = r(x) / d(x), where r(x) and d(x) are polynomials with integer coefficients and d(x) is not equal to 0.
+
+The set of algebraic numbers is denoted by the symbol A. The set A is a countable set, meaning that it can be put into a one-to-one correspondence with the set of natural numbers. This means that there are an infinite number of algebraic numbers, but there are no more algebraic numbers than there are natural numbers.
+
+The set of algebraic numbers includes all integers and rational numbers, as well as many other numbers, such as square roots of integers, cube roots of integers, and fifth roots of integers. The set of algebraic numbers also includes some irrational numbers, such as √2 and π. However, not all irrational numbers are algebraic numbers. For example, the number e is transcendental, which means that it is not the root of any polynomial with integer coefficients.
+
+The set of algebraic numbers is an important set in mathematics. It is used in many different mathematical concepts, such as number theory, algebraic geometry, and mathematical physics.
+
+Here are some examples of algebraic numbers:
+
+* The number √2 is the root of the polynomial x^2 - 2.
+* The number π is the root of the polynomial x^2 - 1.
+* The number e is the root of the polynomial x^2 - e.
+
+Here are some examples of transcendental numbers:
+
+* The number φ (phi) is the golden ratio.
+* The number γ (gamma) is the Euler-Mascheroni constant.
+* The number ζ(3) is the Riemann zeta function evaluated at 3.
+
+The set of algebraic numbers is a rich and complex mathematical structure. It has many interesting properties, and it is used in many different areas of mathematics.
