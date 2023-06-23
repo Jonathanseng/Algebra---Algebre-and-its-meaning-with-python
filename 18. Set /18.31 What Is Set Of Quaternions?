@@ -1,0 +1,13 @@
+The set of quaternions is the collection of all numbers of the form a + bi + cj + dk, where a, b, c, and d are real numbers and i, j, and k are the quaternion units, defined by i^2 = j^2 = k^2 = -1 and ij = k = -ji, jk = i = -kj, and ki = j = -ik. For example, 1 + 2i + 3j + 4k is a quaternion, where 1 is the real part and 2i, 3j, and 4k are the imaginary parts.
+
+The set of quaternions is denoted by H. It is an extension of the set of complex numbers, and it can be used to represent rotations in three dimensions.
+
+Here are some of the important properties of quaternions:
+
+* Quaternions can be added, subtracted, multiplied, and divided.
+* The conjugate of a quaternion is another quaternion that is formed by negating the imaginary parts. For example, the conjugate of 1 + 2i + 3j + 4k is 1 - 2i - 3j - 4k.
+* The absolute value of a quaternion is its distance from the origin in the quaternionic plane.
+* The argument of a quaternion is the angle that the number makes with the positive real axis in the quaternionic plane.
+
+The set of quaternions is a very rich and interesting mathematical structure. It has many applications in physics, engineering, and computer science.
+
