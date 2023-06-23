@@ -1,0 +1,15 @@
+The set of octonions is the collection of all numbers of the form a + bi + cj + dk + ei + fj + gk + hl, where a, b, c, d, e, f, g, and h are real numbers and i, j, k, and l are the octonion units, defined by i^2 = j^2 = k^2 = l^2 = ijkl = -1 and ij = k = -ji, jk = i = -kj, ki = j = -ik, li = l = -il. For example, 1 + 2i + 3j + 4k + 5e + 6f + 7g + 8h is an octonion, where 1 is the real part and 2i, 3j, 4k, 5e, 6f, 7g, and 8h are the imaginary parts.
+
+The set of octonions is denoted by O. It is an extension of the set of quaternions, and it can be used to represent rotations in 7 dimensions.
+
+Here are some of the important properties of octonions:
+
+* Octonions can be added, subtracted, multiplied, and divided.
+* The conjugate of an octonion is another octonion that is formed by negating the imaginary parts. For example, the conjugate of 1 + 2i + 3j + 4k + 5e + 6f + 7g + 8h is 1 - 2i - 3j - 4k - 5e - 6f - 7g - 8h.
+* The absolute value of an octonion is its distance from the origin in the octonionic plane.
+* The argument of an octonion is the angle that the number makes with the positive real axis in the octonionic plane.
+
+The set of octonions is a very rich and interesting mathematical structure. It has many applications in physics, engineering, and computer science.
+
+However, octonions are not as well-known as the quaternions and complex numbers, which are much more widely studied and used. This is because octonions are noncommutative and nonassociative, which makes them more difficult to work with.
+
