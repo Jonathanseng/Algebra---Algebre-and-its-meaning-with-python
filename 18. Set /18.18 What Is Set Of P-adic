@@ -1,0 +1,13 @@
+The set of p-adic numbers is the set of all numbers that can be expressed in the form of p^-a/q, where p is a prime number, a is an integer, and q is an integer not divisible by p. The p-adic numbers are a generalization of the rational numbers, and they are used in many different areas of mathematics, such as number theory, algebraic geometry, and mathematical physics.
+
+The set of p-adic numbers is denoted by the symbol Qp. The set Qp is a field, which means that it is closed under addition, subtraction, multiplication, and division. The set Qp is also complete, which means that every Cauchy sequence in Qp converges to a p-adic number.
+
+The set of p-adic numbers can be represented in a few different ways. One way is to use a base-p representation. In a base-p representation, a p-adic number is written as a series of digits, where each digit is a non-negative integer less than p. The digits are written in the same order as in a standard base-p system, namely with the powers of the base increasing to the left.
+
+Another way to represent the set of p-adic numbers is to use the p-adic absolute value. The p-adic absolute value of a p-adic number is a non-negative real number that measures the "size" of the p-adic number. The p-adic absolute value is defined as follows:
+
+|x|p = p^-a, where x = p^-a/q and q is an integer not divisible by p.
+
+The p-adic absolute value has many useful properties. For example, it satisfies the triangle inequality, which means that |x + y|p <= |x|p + |y|p for all p-adic numbers x and y.
+
+The set of p-adic numbers is a rich and complex mathematical structure. It has many interesting properties, and it is used in many different areas of mathematics.
