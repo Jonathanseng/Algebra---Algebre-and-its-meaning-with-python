@@ -1,0 +1,18 @@
+A point in geometry is a location represented by a dot. It does not have any length, width, shape or size, it only has a position. When two distinct points are connected they form a line.
+
+Here are some of the applications of points in geometry:
+
+* **Coordinates:** Points are used to define coordinates in a plane or space. For example, the point (1, 2) represents the point that is one unit to the right of the origin and two units up from the origin.
+* **Lines:** Points are used to define lines. A line is a set of points that have the same slope and the same y-intercept. For example, the line y = x + 1 passes through the points (0, 1), (1, 2), (2, 3), and so on.
+* **Planes:** Points are used to define planes. A plane is a set of points that are equidistant from a fixed point called the origin. For example, the plane x + y + z = 1 passes through the points (0, 0, 1), (1, 0, 0), (0, 1, 0), and so on.
+* **Distance:** Points are used to measure distance. The distance between two points can be calculated using the distance formula.
+* **Angles:** Points are used to measure angles. The measure of an angle is the amount of rotation between two lines that share a common endpoint.
+
+Points are a fundamental concept in geometry and are used in many different applications. They are used to define lines, planes, and other geometric objects. They are also used to measure distances, angles, and other geometric quantities.
+
+Here are some additional examples of how points are used in the real world:
+
+* **Maps:** Points are used to mark locations on maps. For example, the point (37.7749, -122.4194) marks the location of the Golden Gate Bridge in San Francisco.
+* **Computer graphics:** Points are used to create images on computers. For example, a computer can be used to create a 3D image of a car by plotting the points that make up the car's surface.
+* **Engineering:** Points are used to design and build structures. For example, the points that make up the foundation of a building are used to determine the building's overall shape and size.
+
