@@ -1,0 +1,14 @@
+The symmetric group over n elements, denoted by Sn, is the group of all permutations on a set with n elements. A permutation is just a rearrangement of the set. For example, the permutation (1 2 3) rearranges the set {1, 2, 3} to {2, 3, 1}.
+
+The symmetric group Sn has n! elements, where n! is the factorial of n. This is because there are n! ways to rearrange a set with n elements.
+
+The group operation on Sn is composition of permutations. This means that if we have two permutations σ and τ, then their product is the permutation that results from applying σ first and then τ. For example, if σ = (1 2 3) and τ = (2 3), then στ = (1 3 2).
+
+The symmetric group Sn is an important group in mathematics, and it has many applications in different areas, such as combinatorics, Galois theory, and the representation theory of Lie groups.
+
+Here are some examples of symmetric groups:
+
+* The symmetric group S3 is the group of all permutations on a set with 3 elements. It has 3! = 6 elements.
+* The symmetric group S4 is the group of all permutations on a set with 4 elements. It has 4! = 24 elements.
+* The symmetric group S5 is the group of all permutations on a set with 5 elements. It has 5! = 120 elements.
+
