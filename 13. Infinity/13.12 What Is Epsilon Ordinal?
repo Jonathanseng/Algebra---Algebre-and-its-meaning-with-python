@@ -1,0 +1,13 @@
+In mathematics, an **epsilon ordinal** is an ordinal number that is equal to ωα, where ω is the smallest infinite ordinal and α is an ordinal number. The smallest epsilon ordinal is ε0, which is also known as epsilon nought or epsilon zero.
+
+Epsilon ordinals are named after the Greek letter epsilon, which is the fifth letter of the Greek alphabet. The symbol for ε0 is ε0.
+
+Epsilon ordinals are an important concept in set theory. They are used to study the cardinality of infinite sets and the relationship between different kinds of infinite cardinal numbers.
+
+Here are some additional facts about epsilon ordinals:
+
+* The epsilon ordinals are countable, as is any epsilon number whose index is countable (there exist uncountable ordinals, and uncountable epsilon numbers whose index is an uncountable ordinal).
+* The smallest epsilon number ε0 appears in many induction proofs, because for many purposes, transfinite induction is only required up to ε0 (as in Gentzen's consistency proof and the proof of Goodstein's theorem).
+* The epsilon ordinals are well-ordered, meaning that for any two epsilon ordinals, there is always a smaller one or a larger one.
+* The epsilon ordinals are limit ordinals, meaning that they are not successor ordinals.
+
