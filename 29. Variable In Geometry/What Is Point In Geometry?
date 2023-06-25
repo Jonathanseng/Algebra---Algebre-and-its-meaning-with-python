@@ -1,1 +1,18 @@
+In geometry, a point is a location represented by a dot. It does not have any length, width, shape or size, it only has a position. When two distinct points are connected they form a line.
+
+In classical Euclidean geometry, a point is a primitive notion that models an exact location in space, and has no length, width, or thickness. In modern mathematics, a point refers more generally to an element of some set called a space. Being a primitive notion means that a point cannot be defined in terms of previously defined objects. That is, a point is defined only by some properties, called axioms, that it must satisfy; for example, "there is exactly one line that passes through two different points".
+
+Points, considered within the framework of Euclidean geometry, are one of the most fundamental objects. Euclid originally defined the point as "that which has no part". In the two-dimensional Euclidean plane, a point is represented by an ordered pair (x, y) of numbers, where the first number conventionally represents the horizontal and is often denoted by x, and the second number conventionally represents the vertical and is often denoted by y.
+
+Here are some of the properties of points in geometry:
+
+* A point has no length, width, or height.
+* A point is a location, not a shape.
+* A point can be named by a capital letter.
+* Two points are equal if they have the same location.
+* Three points are collinear if they lie on the same line.
+* Four points are noncollinear if they do not lie on the same line.
+
+Points are used in many different ways in geometry. They are used to define lines, planes, and other geometric objects. They are also used to measure distances, angles, and other geometric quantities.
+
 
