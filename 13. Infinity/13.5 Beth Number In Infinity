@@ -1,0 +1,17 @@
+The beth numbers are a sequence of infinite cardinal numbers that are defined in terms of the power set operation. The first beth number, ℶ0, is the cardinality of the set of all subsets of the natural numbers. The second beth number, ℶ1, is the cardinality of the power set of the natural numbers, and so on.
+
+In other words, ℶα is the cardinality of the set of all subsets of a set with cardinality ℵα.
+
+The beth numbers are named after the Hebrew letter beth, which is the second letter of the Hebrew alphabet. The symbol for ℶα is ℶα.
+
+The beth numbers are closely related to the aleph numbers. The aleph numbers are a sequence of infinite cardinal numbers that are defined in terms of well-orderings. The first aleph number, ℵ0, is the cardinality of the set of natural numbers. The second aleph number, ℵ1, is the cardinality of the set of real numbers, and so on.
+
+The generalized continuum hypothesis (GCH) is a statement about the relationship between the beth numbers and the aleph numbers. The GCH states that for every ordinal α, ℵα = ℶα.
+
+However, the GCH is not a theorem of set theory. It is possible that the GCH is false, in which case there would be beth numbers that are larger than the corresponding aleph numbers.
+
+The beth numbers are an important concept in set theory and other areas of mathematics. They are used to study the cardinality of infinite sets and the relationship between different kinds of infinite cardinal numbers.
+
+In terms of infinity, the beth numbers can be thought of as a way of measuring the size of infinite sets. The higher the beth number, the larger the set. For example, the set of all subsets of the natural numbers has cardinality ℶ0, while the set of all real numbers has cardinality ℵ1.
+
+The beth numbers are an important tool for understanding the cardinality of infinite sets. They are also used to study the relationship between different kinds of infinite cardinal numbers.
