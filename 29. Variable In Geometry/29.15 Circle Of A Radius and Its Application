@@ -1,0 +1,16 @@
+A circle centered around a point is a circle that has its center at that point. The radius of the circle is the distance from the center to any point on the circumference of the circle.
+
+There are many applications of circles centered around points. Some of these applications include:
+
+* **Geometry:** Circles centered around points are used in many different geometric problems. For example, they can be used to find the area of a sector of a circle, or to calculate the distance between two points on a circle.
+* **Computer graphics:** Circles centered around points are used in computer graphics to create images of circles. They can also be used to create other shapes, such as ellipses and arcs.
+* **Engineering:** Circles centered around points are used in engineering to design a variety of objects, such as gears, wheels, and pipes. They can also be used to calculate the strength of these objects.
+* **Physics:** Circles centered around points are used in physics to model the motion of objects. For example, they can be used to model the motion of planets around the sun, or the motion of electrons around an atom.
+
+Here are some specific examples of how circles centered around points are used in these applications:
+
+* In geometry, a circle centered around a point can be used to find the area of a sector of a circle. The area of a sector is calculated by multiplying the area of the whole circle by the ratio of the sector's central angle to 360 degrees.
+* In computer graphics, circles centered around points are used to create images of circles by drawing a series of connected line segments. The radius of the circle determines the length of the line segments.
+* In engineering, circles centered around points are used to design gears by creating a circle with a radius equal to the desired radius of the gear. The circle is then divided into equal segments, and each segment is connected to the next segment to create the gear.
+* In physics, circles centered around points are used to model the motion of objects by creating a circle with a radius equal to the distance between the object and the center of the circle. The object's motion is then modeled by moving the object around the circle.
+
