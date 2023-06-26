@@ -1,0 +1,19 @@
+In geometry, the radius of a circle is a line segment that goes from the center of the circle to any point on the circumference of the circle. The radius is always half the length of the diameter. The radius is often denoted by the letter r.
+
+Here are some of the formulas for calculating the radius of a circle:
+
+* **Radius from diameter:** r = d/2
+* **Radius from circumference:** r = c/(2π)
+* **Radius from area:** r = √(A/π)
+
+Where:
+
+* d is the diameter of the circle
+* c is the circumference of the circle
+* A is the area of the circle
+* π is the mathematical constant pi, which is approximately equal to 3.14
+
+For example, if the diameter of a circle is 10 cm, then the radius of the circle is 10/2 = 5 cm.
+
+The radius of a circle is a very important concept in geometry, and it is used in many different formulas and equations. For example, the formula for the area of a circle is A = πr², where A is the area, π is pi, and r is the radius.
+
