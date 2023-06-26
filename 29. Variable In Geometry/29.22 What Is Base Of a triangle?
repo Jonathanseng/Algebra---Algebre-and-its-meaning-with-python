@@ -1,0 +1,16 @@
+In geometry, the base of a triangle is the side that is perpendicular to the height of the triangle. The height of a triangle is the perpendicular distance from the base to the vertex opposite the base.
+
+Any side of a triangle can be the base, but once a base is chosen, the corresponding height is the only possible height for that base.
+
+For example, in the triangle below, side AB is the base, and the height is the perpendicular distance from point C to side AB.
+
+[Image of a triangle with base AB and height from C to AB]
+
+The base of a triangle can be used to calculate the area of the triangle using the following formula:
+
+```
+Area = (1/2) * base * height
+```
+
+For example, if the base of a triangle is 10 cm and the height is 5 cm, then the area of the triangle is (1/2) * 10 * 5 = 25 cm².
+
