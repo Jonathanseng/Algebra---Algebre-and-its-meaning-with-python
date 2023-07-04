@@ -1,0 +1,13 @@
+In mathematics, the additive identity is the number that, when added to any other number, leaves the other number unchanged. For example, 0 is the additive identity for the natural numbers, because adding 0 to any natural number results in that same number.
+
+In other words, the additive identity of a number is the number that, when added to that number, gives the original number.
+
+The additive identity of zero is itself, 0. This is because adding 0 to any number, including 0, results in the original number. For example,
+
+```
+0 + 0 = 0
+1 + 0 = 1
+5 + 0 = 5
+```
+
+As you can see, no matter what number we add to 0, the result is always the original number. This is why 0 is called the additive identity of zero.
